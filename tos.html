@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>JonGriffon TOS</title>
+		<link rel="stylesheet" href="style.css">
+					<script>
+						function tos_lang(lang) {
+													document.getElementById("tos");
+													if (lang == 'fr'){
+																				tos.src = "tosfr.html";
+																			}
+													else if (lang == 'en') {
+																				tos.src = "tosen.html";
+																			}
+												}
+					</script>
+
+	</head>
+
+	<body>
+		<button onclick="tos_lang('fr')">Français</button>
+		<button onclick="tos_lang('en')">English</button>
+		<embed id="tos" type="text/html" src="tosfr.html" height="6000">
+	</body>
+</html>
