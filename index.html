@@ -4,23 +4,45 @@
 	<head>
 		<title>JonGriffon TOS</title>
 		<link rel="stylesheet" href="style.css">
-					<script>
-						function tos_lang(lang) {
-													document.getElementById("tos");
-													if (lang == 'fr'){
-																				tos.src = "tosfr.html";
-																			}
-													else if (lang == 'en') {
-																				tos.src = "tosen.html";
-																			}
-												}
-					</script>
-
 	</head>
 
 	<body>
-		<button onclick="tos_lang('fr')">Français</button>
-		<button onclick="tos_lang('en')">English</button>
-		<embed id="tos" type="text/html" src="tosfr.html" height="6000">
+		<script src="script.js"></script>
+
+		<header>
+			<h1>JonGriffon</h1>
+		</header>
+
+		<nav>
+			<button onclick="pricelist()" id="plbtn">Pricelist</button>
+		</nav>
+
+		<div id="tosdiv">
+			<button onclick="tos_lang('fr')">Français</button>
+			<button onclick="tos_lang('en')">English</button>
+			<br/>
+			<embed id="tos" type="text/html" src="tosfr.html" height=3300>
+		</div>
+		<div id="pricelist" hidden>
+			<img src="image/pl_general.jpg" alt="Stickers pricelist">
+			<img src="image/pl_stickers.jpg" alt="Stickers pricelist">
+		</div>
+
+		<footer>
+			<table>
+				<tr>
+					<th><h1> Contact </h1></th>
+				</tr>
+				<tr>
+					<th> Telegram : @JonGriffon </th>
+				</tr>
+				<tr>
+					<th> Facebook : Jonathan Griffon GP </th>
+				</tr>
+				<tr>
+					<th> <a href="https://linktr.ee/JonGriffon"> Linktree </a> </th>
+				</tr>
+
+		</footer>
 	</body>
 </html>
