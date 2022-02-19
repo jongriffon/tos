@@ -6,7 +6,7 @@ body {
 	font-size: 3vm;
 }
 img {
-	width: 100%;
+	width: 80%;
 }
 
 embed {
@@ -25,11 +25,18 @@ p, li {
 	font-family: Helvetica, Arial, Tahoma, sans-serif;
 	color: #fff;
 }
+nav{
+	padding: 10px;
+}
 button {
 	color: #fff;
-	background-color: #444;
+	background-color: #1A1C33;
 	font-family: Helvetica, Arial, Tahoma, sans-serif;
-	padding: 7px 18px;
+	padding: 10px 24px;
+	border: 2px solid #fff;
+	display: inline-block;
+	text-decoration: bold;
+	border-radius: 4px;
 }
 table {
 	width: 100%;
