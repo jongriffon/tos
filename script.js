@@ -8,7 +8,7 @@ function tos_lang(lang) {
 	else if (lang == 'en')
 	{
 		tos.src = "tosen.html";
-		tos.height = 3500;
+		tos.height = 3300;
 	}
 }
 
