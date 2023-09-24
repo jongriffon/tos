@@ -1,27 +1,26 @@
 # Terms of Service - Français
-Telegram : @JonGriffon
-Facebook : Jonathan Griffon GP
 
-Mise à jour de la TOS: 08/02/2022
-La TOS est écrite à la 3ème personne du singulier masculin pour faciliter la lecture
+Mise à jour de la TOS: 24 Septembre 2023
+Changelog:
+
+* Ce que je dessine/ne dessine pas (voir en dessous)
+* Facture Paypal au delà de 30 CHF
+* Les stickers n'ont qu'un WIP, le sketch
+* Les stickers peuvent être utilisé sur tous les sites/applications
+* Quelques informations ajoutées à la fin
 
 
 ## Je peux dessiner
 
-* Furry : Anthro – Feral – Chibi
-* Animaux sauvages / de compagnie
-* Candy Gore
-* Babyfur, soft fetish (ex : partie latex, paws)
-* NSFW: Nudité simple, P*rn, Fétiches (acceptation laissée à mon jugement) (+18 seulement avec preuve sur carte d'identité) et supplément de +30.-
+Furry, MLP, feral, anthro, chibi, cartoon, semi-realiste, Animaux, NSFW moderé (pieds, latex, bulge, etc.)
+
+Je peux demander une preuve de votre âge pour un dessin NSFW et faire payer 20 CHF en plus.
 
 ## Je ne dessine pas
 
-* Fétiches tel que Scat, Sang
-* Scènes immorales
-* NSFW : infantile / Cub / Chibi (car apparence enfantine bien que ça soit adulte)
-* NSFW : animaux de compagnie / feral /
-* Partie génitale dites ''féminines''
-* Humain / voiture
+Humains, mecanique/vehicule uniquement, hard fetish/violence.
+
+NSFW avec: feral, mineurs, genitaux AFAB, chibi
 
 Je peux refuser une commission si l'idée ne me convient pas.
 
@@ -29,9 +28,9 @@ Je peux refuser une commission si l'idée ne me convient pas.
 
 ## Payement
 
-PayPal : uniquement via facture pour les commissions de +15.-
+PayPal : uniquement via facture pour les commissions au delà de 30 CHF
 
-J’accepte Twint comme payement si PayPal n’est pas possible.
+J’accepte Twint et Paypal.
 
 Si le WIP n'a pas de réponse en 24h, je le mettrai de côté et avancerai les autres commissions dans la queue.
 
@@ -54,13 +53,14 @@ Si la commission est remboursée, le client ne peut pas utiliser ou partager les
 
 ## Stickers
 
-Il n’y a que 2 WIP : sketch et line, la couleur et l’ombrage viennent ensemble pour la version finale.
+Il n’y a qu'un WIP : le sketch puis une version finale.
+J'accepte de petites modifications à la version finale.
 
-Je n’accepte que le style Chibi et Toony pour les stickers.
+Je n’accepte que le style Chibi, Toony ou Mallow pour les stickers.
 
 Il est obligatoire d'ajouter mon sticker de crédit au pack.
 
-Il est interdit d'ajouter les stickers autre part que dans des Sticker Pack Telegram, WhatsApp ou Discord. Si le client veut l'utiliser autrement, il doit me le demander.
+Les stickers peuvent être utilisés partout, avec crédits.
 
 ***
 
@@ -84,7 +84,7 @@ Je jauge si j’ai suffisamment de temps pour réaliser la commission dans les d
 Une commission rush à un supplément de +20.-
 
 Les commissions sont réalisées dans les délais d’une journée à deux semaines, tout dépend de ma disponibilité, ma santé ainsi que le demande de travail.
-Il se peut que je sois malade ou pas en état de travailler, le client en sera informé si je ne travaille pas pendant les 48h.
+Il se peut que je sois malade ou pas en état de travailler, le client en sera informé si je ne travaille pas pendant quelques jours.
 
 Il est préférable que le client me commissionne le plus tôt possible pour que je puisse respecter la deadline.
 
@@ -138,6 +138,13 @@ Le client a le droit sur le personnage mais pas sur le dessin.
 Il est possible que je commette une erreur en calculant le prix de la commission, le client choisira alors de payer le prix correct ou non, peu importe son choix, je réaliserai la commission comme demandée.
 
 Dû à mes soucis de compréhension, le client ne doit pas hésiter à me faire savoir quelque chose s’il en a besoins.
+
+Il est possible que ma TOS ne s'applique pas dans certaines situations, par exemple: un ami qui demande un dessin NSFW
+
+Je choisi mon workflow et travaille au mieux pour moi, ma santé et la satisfaction de mes clients.
+
+Je suis toujours disponible pour repondre aux questions et demandes, la communication est une de mes qualités.
+Je repond le plus rapidement sur Telegram et Facebook, il est possible que je rate des messages sur Discord et Twitter.
 
 ***
 
