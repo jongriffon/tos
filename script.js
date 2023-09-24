@@ -3,12 +3,12 @@ function tos_lang(lang) {
 	if (lang == 'fr')
 	{
 		tos.src = "tosfr.html";
-		tos.height = 3300;
+		tos.height = 3500;
 	}
 	else if (lang == 'en')
 	{
 		tos.src = "tosen.html";
-		tos.height = 2800;
+		tos.height = 3500;
 	}
 }
 
